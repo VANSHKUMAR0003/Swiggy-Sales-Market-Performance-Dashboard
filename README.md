@@ -196,7 +196,7 @@ This dashboard helps business stakeholders:
 
 ### Swiggy Sales & Market Performance Dashboard
 
-![Swiggy Sales Dashboard](Swiggy%20Dashboard.png)
+![Swiggy Sales Dashboard](https://github.com/VANSHKUMAR0003/Swiggy-Sales-Market-Performance-Dashboard/blob/main/Dashboard.png)
 
 ---
 
@@ -204,7 +204,7 @@ This dashboard helps business stakeholders:
 
 *Vansh Kumar*
 
-*Data Analyst | Excel | Power BI | SQL | Python*
+*Data Analyst | Excel | Power BI | SQL 
 
 🔗 *GitHub:*\
 [https://github.com/VANSHKUMAR0003](https://github.com/VANSHKUMAR0003)
